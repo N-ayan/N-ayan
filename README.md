@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @N-ayan
 - 👀 I’m interested in data science, web and app development. 
 - 🌱 I’m currently pursuing Btech Cse hons.
-- 📫 contact me on insta id @the_calm_eyes or 
+- 📫 contact me on insta id @___.nyn._ or 
      send mail to nayanmishra16sep@gmail.com
 
 <!---
