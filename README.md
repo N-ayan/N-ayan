@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @N-ayan
-- 👀 I’m interested in data science, web and app development. 
-- 🌱 I’m currently pursuing Btech Cse hons.
+- 👀 I’m interested in data analysis. 
+- 🌱 I've done my Btech Cse hons. from Lovely Professional University.
 - 📫 contact me on insta id @___.nyn._ or 
      send mail to nayanmishra16sep@gmail.com
 
